@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\Genel\Programlama\c#\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe.config
+C:\Users\pc\Desktop\Genel\Programlama\c#\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe
+C:\Users\pc\Desktop\Genel\Programlama\c#\SuperMarket\SuperMarket\bin\Debug\SuperMarket.pdb
+C:\Users\pc\Desktop\Genel\Programlama\c#\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Genel\Programlama\c#\SuperMarket\SuperMarket\obj\Debug\SuperMarket.MainFrm.resources
+C:\Users\pc\Desktop\Genel\Programlama\c#\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
+C:\Users\pc\Desktop\Genel\Programlama\c#\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Genel\Programlama\c#\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Genel\Programlama\c#\SuperMarket\SuperMarket\obj\Debug\SuperMarket.exe
+C:\Users\pc\Desktop\Genel\Programlama\c#\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pdb
+C:\Users\pc\Desktop\Genel\Programlama\c#\SuperMarket\SuperMarket\obj\Debug\SuperMarket.AddCustomerFrm.resources
+C:\Users\pc\Desktop\Genel\Programlama\c#\SuperMarket\SuperMarket\obj\Debug\SuperMarket.CreateOrderFrm.resources
+C:\Users\pc\Desktop\Genel\Programlama\c#\SuperMarket\SuperMarket\obj\Debug\SuperMarket.OrdersByCustomerFrm.resources
+C:\Users\pc\Desktop\Genel\Programlama\c#\SuperMarket\SuperMarket\obj\Debug\SuperMarket.OrdersByDateFrm.resources
